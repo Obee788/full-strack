@@ -1,0 +1,18 @@
+*{
+    font-family: phetsarath ot;
+}
+#nav{
+    display: flex;
+align-items: center;
+justify-content: center;
+}
+#bgcolor{
+    background: rgb(255,149,0);
+    background: linear-gradient(90deg, rgba(255,149,0,1) 0%, rgba(37,129,245,1) 51%, rgba(255,0,249,1) 100%);
+}
+#re{
+
+}
+#la{
+    
+}
